@@ -1,8 +1,7 @@
 import { Component, signal } from '@angular/core';
 
 //interface
-import { IKnowledge } from '../../portifolio/interface/Iknowledge.interface';
-
+import { IKnowledge } from '../../portifolio/interface/IKnowledge.interface';
 @Component({
   selector: 'app-knowledge',
   imports: [],
